@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rikhil2
-- 👀 I’m interested in biochemistry and computer science.
-- 🌱 I’m currently learning openCV optimizations.
+- 🌱 I’m currently learning VSLAM implementation.
 - 💞️ I’m looking to collaborate on anything. Hmu if you want to collab.
 - 📫 How to reach me -> 484-995-2760 or rikhiljkumar@gmail.com
 
