@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rikhil2
-- 🌱 I’m currently learning VSLAM implementation.
+- 🌱 I’m currently learning OpenCV pipeline optimization.
 - 💞️ I’m looking to collaborate on anything. Hmu if you want to collab.
 - 📫 How to reach me -> 484-995-2760 or rikhiljkumar@gmail.com
 
