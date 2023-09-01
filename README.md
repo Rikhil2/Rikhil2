@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rikhil2
-- 🌱 I’m currently learning about radiomics.
+- 🌱 I’m interested in radiomics.
 - 📫 How to reach me -> 484-995-2760 or rikhiljkumar@gmail.com
 
 <!---
